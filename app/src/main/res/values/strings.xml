@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Ruby Monkey</string>
+    <string name="image_chooser">Choose Image</string>
+    <string name="facebook_app_id">3257524771179219</string>
+    <string name="fb_login_protocol_scheme">fb3257524771179219</string>
+
+</resources>
