@@ -75,6 +75,6 @@
     <property name="output-jar-compression-level" value="9"/>
 
     <property name="log-file" value="log.xml"/>
-    <property name="random-seed" value="52312"/>
+    <property name="random-seed" value="52281"/>
 
 </config>
